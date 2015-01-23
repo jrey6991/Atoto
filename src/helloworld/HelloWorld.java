@@ -18,6 +18,7 @@ public class HelloWorld {
         // TODO code application logic here
         System.out.println("Hello Joy !");
         System.out.println("Bye Joy !");
+        System.out.println("Salue Anaïs");
     }
     
 }
